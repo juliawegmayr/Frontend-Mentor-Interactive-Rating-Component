@@ -3,8 +3,6 @@ body {
     font-family: 'Overpass', sans-serif;
 }
 
-
-
 h2  {
     font-size: 28px;
     font-weight: 700;
@@ -19,6 +17,7 @@ p {
    line-height: 24px;
 }
 
+/*Rating Numbers*/
 
 div.number {
     display: flex;
@@ -49,6 +48,7 @@ div.number {
     color:#ffffff;
 }
 
+/* Submit Button*/
 
 button.submit {
     background-color: #FC7614;
