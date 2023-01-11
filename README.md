@@ -32,5 +32,5 @@ Users should be able to:
 ## Author
 
 - Website - [Julia Wegmayr] (Website Coming Soon)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+
 
